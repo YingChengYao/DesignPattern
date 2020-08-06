@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "/Kn94BqU9vCzEgnbPGjacZ41Y8u7YdDLXNl6Hh/cKadRC04lmBM4PtKCUTKhRvysSdlBJnYobtC2M9HALoM/mg==",
+  "success": true,
+  "projectFilePath": "D:\\ycy\\study\\core\\DesignPattern\\SingletonPattern\\SingletonPattern\\SingletonPattern.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ycy\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
